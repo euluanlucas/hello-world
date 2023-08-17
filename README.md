@@ -1,2 +1,7 @@
 # hello-world
-1. Utilizando as novas ferramentas
+
+1. Exercicio Utilizando as novas ferramentas
+
+Apresentação das principais ferramentas para criação de repositório.
+
+luan lucas;
